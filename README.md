@@ -1,7 +1,7 @@
-# coverage-dev
+# coverage-staging
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2b3f4c14ccda403dbc9d3b704ad3e4e7)](https://app.dev.codacy.org/gh/troubleshoot-codacy/coverage-dev/dashboard)
-[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/2b3f4c14ccda403dbc9d3b704ad3e4e7)](https://app.dev.codacy.org/gh/troubleshoot-codacy/coverage-dev/coverage/dashboard)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2b3f4c14ccda403dbc9d3b704ad3e4e7)](https://app.staging.codacy.org/gh/troubleshoot-codacy/coverage-staging/dashboard)
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/2b3f4c14ccda403dbc9d3b704ad3e4e7)](https://app.staging.codacy.org/gh/troubleshoot-codacy/coverage-staging/coverage/dashboard)
 
 Example repository on how to generate a coverage report for Java!!
 
