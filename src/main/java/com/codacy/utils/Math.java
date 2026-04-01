@@ -27,6 +27,11 @@ public class Math {
             if (1 == 1) {
                 System.out.println("I am covered!?!");
             } else {
+                if (1 == 2) {
+                    System.out.println("nop");
+                } else {
+                    System.out.println("halo!?!");
+                }
                 System.out.println("no cover!?!");
                 System.out.println("no cover!?!");
             }
