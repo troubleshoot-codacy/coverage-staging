@@ -7,11 +7,13 @@ public class Math {
     public Math(int magicNumber) {
         this.magicNumber = magicNumber;
     }
+    private int a;
 
     /**
      * Adds 2 numbers, unless there is a magic number on the second argument
      */
     public int magicAdd(int x, int y) {
+      x = a;
         if (y == magicNumber) {
             System.out.println("Am I am covered?");
             System.out.println("Am I am covered?");
