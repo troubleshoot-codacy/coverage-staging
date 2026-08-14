@@ -4,4 +4,6 @@ console.log('panda')
 
 console.log('say no')
 
+console.log('say eyay')
+
 console.log("Hey");
